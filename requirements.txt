@@ -1,0 +1,17 @@
+pandas~=2.2.3
+fpdf~=1.7.2
+numpy~=2.2.0
+opencv-python~=4.11.0.86
+pytesseract~=0.3.13
+pillow~=11.1.0
+PyAutoGUI~=0.9.54
+pyobjc-framework-Quartz~=11.0
+pyperclip~=1.9.0
+pyobjc-framework-Cocoa~=11.0
+PyQt6~=6.8.0
+screeninfo~=0.8.1
+PyQt5
+librosa
+soundfile
+matplotlib
+numpy
