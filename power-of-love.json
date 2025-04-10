@@ -1,0 +1,298 @@
+{
+  "songs": {
+    "The Power Of Love- Huey Lewis And The News": {
+      "title": "The Power Of Love- Huey Lewis And The News",
+      "audioUrl": "/Users/martin/Music/DJ/The Power Of Love- Huey Lewis And The News.mp3",
+      "lyrics": [
+        {
+          "time": 0.44117913832199546,
+          "text": "[Kurzes Segment 1]",
+          "pitch": 85,
+          "duration": 0.44117913832199546
+        },
+        {
+          "time": 0.9287981859410431,
+          "text": "oh",
+          "pitch": 60,
+          "duration": 11.586757369614514
+        },
+        {
+          "time": 13.119274376417234,
+          "text": "oh",
+          "pitch": 58,
+          "duration": 1.4628571428571426
+        },
+        {
+          "time": 14.605351473922903,
+          "text": "but",
+          "pitch": 56,
+          "duration": 1.2306575963718807
+        },
+        {
+          "time": 15.905668934240364,
+          "text": "[Kurzes Segment 5]",
+          "pitch": 53,
+          "duration": 0.18575963718820887
+        },
+        {
+          "time": 16.137868480725622,
+          "text": "[Kurzes Segment 6]",
+          "pitch": 57,
+          "duration": 0.46439909297052395
+        },
+        {
+          "time": 16.62548752834467,
+          "text": "thank you",
+          "pitch": 58,
+          "duration": 1.8343764172335604
+        },
+        {
+          "time": 18.64562358276644,
+          "text": "[Kurzes Segment 8]",
+          "pitch": 59,
+          "duration": 0.7662585034013603
+        },
+        {
+          "time": 19.435102040816325,
+          "text": "[Kurzes Segment 9]",
+          "pitch": 53,
+          "duration": 0.4411791383219956
+        },
+        {
+          "time": 19.9459410430839,
+          "text": "[Kurzes Segment 10]",
+          "pitch": 66,
+          "duration": 0.6037188208616797
+        },
+        {
+          "time": 20.712199546485262,
+          "text": "what",
+          "pitch": 75,
+          "duration": 1.9040362811791383
+        },
+        {
+          "time": 22.709115646258503,
+          "text": "at your",
+          "pitch": 58,
+          "duration": 2.0201360544217692
+        },
+        {
+          "time": 24.752471655328797,
+          "text": "the a to one",
+          "pitch": 63,
+          "duration": 1.9736961451247161
+        },
+        {
+          "time": 26.749387755102042,
+          "text": "the",
+          "pitch": 62,
+          "duration": 2.0201360544217692
+        },
+        {
+          "time": 28.792743764172336,
+          "text": "[Kurzes Segment 15]",
+          "pitch": 54,
+          "duration": 0.3482993197278894
+        },
+        {
+          "time": 29.30358276643991,
+          "text": "but",
+          "pitch": 67,
+          "duration": 1.4164172335600895
+        },
+        {
+          "time": 30.812879818594105,
+          "text": "and no one",
+          "pitch": 67,
+          "duration": 3.993832199546482
+        },
+        {
+          "time": 34.853151927437644,
+          "text": "at what thing",
+          "pitch": 65,
+          "duration": 4.783310657596367
+        },
+        {
+          "time": 39.68290249433107,
+          "text": "[Kurzes Segment 19]",
+          "pitch": 57,
+          "duration": 0.44117913832199207
+        },
+        {
+          "time": 40.170521541950116,
+          "text": "[Kurzes Segment 20]",
+          "pitch": 65,
+          "duration": 0.673378684807254
+        },
+        {
+          "time": 40.96,
+          "text": "what did i bring to the good the",
+          "pitch": 68,
+          "duration": 8.057324263038545
+        },
+        {
+          "time": 49.04054421768708,
+          "text": "and appeared to you and you in that and and and if you but what if it when",
+          "pitch": 70,
+          "duration": 25.379410430838995
+        },
+        {
+          "time": 74.55927437641724,
+          "text": "[Kurzes Segment 23]",
+          "pitch": 80,
+          "duration": 0.27863945578231153
+        },
+        {
+          "time": 74.86113378684807,
+          "text": "or are one and the pope",
+          "pitch": 67,
+          "duration": 6.5480272108843565
+        },
+        {
+          "time": 81.43238095238095,
+          "text": "it",
+          "pitch": 56,
+          "duration": 1.253877551020409
+        },
+        {
+          "time": 82.70947845804989,
+          "text": "[Kurzes Segment 26]",
+          "pitch": 57,
+          "duration": 0.6037188208616726
+        },
+        {
+          "time": 83.47573696145125,
+          "text": "what's that and and and i and none and",
+          "pitch": 64,
+          "duration": 8.034104308390027
+        },
+        {
+          "time": 91.57950113378685,
+          "text": "[Kurzes Segment 28]",
+          "pitch": 56,
+          "duration": 0.46439909297052395
+        },
+        {
+          "time": 92.0671201814059,
+          "text": "what",
+          "pitch": 76,
+          "duration": 1.486077097505671
+        },
+        {
+          "time": 93.59963718820862,
+          "text": "what about with them when when it when it who at a time when what smooth or what",
+          "pitch": 69,
+          "duration": 43.88571428571427
+        },
+        {
+          "time": 137.62467120181407,
+          "text": "in",
+          "pitch": 77,
+          "duration": 2.39165532879818
+        },
+        {
+          "time": 140.17886621315193,
+          "text": "and it have to",
+          "pitch": 65,
+          "duration": 3.9241723356009004
+        },
+        {
+          "time": 144.21913832199547,
+          "text": "and if they are things that the third eye",
+          "pitch": 64,
+          "duration": 9.334421768707472
+        },
+        {
+          "time": 153.57678004535148,
+          "text": "[Kurzes Segment 34]",
+          "pitch": 58,
+          "duration": 0.11609977324260967
+        },
+        {
+          "time": 153.83219954648527,
+          "text": "[Kurzes Segment 35]",
+          "pitch": 57,
+          "duration": 0.46439909297052395
+        },
+        {
+          "time": 154.34303854875284,
+          "text": "and",
+          "pitch": 84,
+          "duration": 1.904036281179117
+        },
+        {
+          "time": 156.3631746031746,
+          "text": "what that",
+          "pitch": 60,
+          "duration": 2.507755102040818
+        },
+        {
+          "time": 158.89414965986396,
+          "text": "one and",
+          "pitch": 70,
+          "duration": 2.7631746031746047
+        },
+        {
+          "time": 161.68054421768707,
+          "text": "[Kurzes Segment 39]",
+          "pitch": 52,
+          "duration": 0.2321995464852762
+        },
+        {
+          "time": 161.93596371882086,
+          "text": "it where what's that",
+          "pitch": 80,
+          "duration": 4.458231292517013
+        },
+        {
+          "time": 166.46385487528346,
+          "text": "what",
+          "pitch": 78,
+          "duration": 8.080544217687049
+        },
+        {
+          "time": 174.56761904761905,
+          "text": "what and none that what that if there is no thing no one but a few whiff of at",
+          "pitch": 71,
+          "duration": 47.8098866213152
+        },
+        {
+          "time": 222.4471655328798,
+          "text": "[Kurzes Segment 43]",
+          "pitch": 55,
+          "duration": 0.13931972789117708
+        },
+        {
+          "time": 222.7025850340136,
+          "text": "[Kurzes Segment 44]",
+          "pitch": 54,
+          "duration": 0.3482993197279143
+        },
+        {
+          "time": 223.19020408163266,
+          "text": "[Kurzes Segment 45]",
+          "pitch": 59,
+          "duration": 0.25541950113378675
+        },
+        {
+          "time": 223.72426303854874,
+          "text": "[Kurzes Segment 46]",
+          "pitch": 76,
+          "duration": 0.2089795918367372
+        },
+        {
+          "time": 224.18866213151927,
+          "text": "[Kurzes Segment 47]",
+          "pitch": 53,
+          "duration": 0.1160997732426381
+        },
+        {
+          "time": 225.23356009070295,
+          "text": "[Kurzes Segment 48]",
+          "pitch": 52,
+          "duration": 0.06965986394558854
+        }
+      ]
+    }
+  }
+}
